@@ -32,7 +32,7 @@ function updateClocks() {
     });
 }
 
-fetchWeather("Funchal, Portugal", "porto-temp", "porto-desc", "porto-icon");
+fetchWeather("Porto, Portugal", "porto-temp", "porto-desc", "porto-icon");
 fetchWeather("Santa Tecla", "santa-tecla-temp", "santa-tecla-desc", "santa-tecla-icon");
 
 updateClocks();
